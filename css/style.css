@@ -11,6 +11,11 @@ h2 {
     text-align: center;
     color: white;
 }
+.underconstruction {
+    color: rgb(119, 56, 44);
+    font-style: italic;
+    text-shadow: 2px 2px rgb(143, 117, 117);
+}
 #main_block{ 
 margin:auto;
  width:1000px; 
